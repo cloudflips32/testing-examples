@@ -1,1 +1,5 @@
 # testing-examples
+
+A collection of tests ive performed using Jest after installing react. 
+
+To perform testing of your own, simply open terminal within your project directory and use <code>$ npm test</code>.
